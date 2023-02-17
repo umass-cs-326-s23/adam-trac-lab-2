@@ -1,7 +1,6 @@
 Let's go!
 
 
-- Aditya Maheshwari
+- adam trac
 
-
-I have add more cool things to README in the my-branch 
+hopefully this ended up first on my own branch and not the master branch
